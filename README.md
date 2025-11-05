@@ -8,6 +8,6 @@ En este repositorio se encuentran los ejercicios realizados en Despliegue de Apl
   - Capítulo 2 - Manual práctico de Linux
   - Capítulo 3 - Manual práctico de Linux
   - Capítulo 4 - Manual práctico de Linux
-  - Capítulo 5 - Manual práctico de Linux
   - Ejercicios de redes
 - Ejercicio FORTY
+- Ejercicio FORTY SourceTree
